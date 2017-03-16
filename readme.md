@@ -1,5 +1,5 @@
 # Sitecore.Support.152216
-The `Sitecore.CodeDom.Compiler.CompilerException` exception may occur when the `Web Forms For Marketers` module is installed and the `Social Connected` module is disabled (by removing the `\Website\App_Config\Include\Social` folder).
+The `Sitecore.CodeDom.Compiler.CompilerException` exception may occur when the `Web Forms For Marketers` module is installed and the `Social Connected` module is disabled (by removing the `\Website\App_Config\Include\Social` folder).<br/>
 This patch prevents the described behavior.
 
 ## License  
